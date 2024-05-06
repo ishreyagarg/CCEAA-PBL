@@ -9,9 +9,13 @@ Description of attached files-
 
 On Google Collab, run the following scripts:
   1a. Brain_Tumor_Load_Data.ipynb
+  
   1b. Brain_Tumor_ResNet50.ipynb
+  
   1c. Brain_Tumor_VGG16.ipynb
+  
   1d. Brain_Tumor_Xception.ipynb
+  
   1e. Brain_Tumor_Combine_Three_Models.ipynb
 
 These scripts will generate models for various CNN techniques and Random forest classifier (which are also available in the repository, namely ResNet_model.h5, VGG16_model.h5, Xception_model.h5, random_forest.joblib.
